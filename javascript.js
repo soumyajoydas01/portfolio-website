@@ -1,1 +1,1 @@
-console.log('Welcome to my Portfolio Website');
+alert('Welcome to my Portfolio Website');
