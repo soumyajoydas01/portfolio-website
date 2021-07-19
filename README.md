@@ -10,4 +10,4 @@ Click on the icon below to visit my portfolio website.
 
 </br>
 
-<a style="padding-right:8px;" href="https://soumyajoy01.github.io/portfolio-website/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/domain.png"/> </a>
+<a style="padding-right:8px;" href="https://soumyajoy01.github.io/portfolio-website/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/resume-website.png"/> </a>
